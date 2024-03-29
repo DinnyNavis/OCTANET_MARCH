@@ -1,0 +1,16 @@
+body {
+    font-style: normal;
+    color: rgb(73, 67, 73);
+    background-color: rgb(132, 92, 184);
+     }
+     h1{
+        background-color: rgba(229, 226, 226, 0.867);
+        color: rgb(36, 92, 92);
+     }
+     h2{
+        color: rgb(198, 205, 201);
+     }
+     p{
+        color: rgb(239, 239, 239);
+        font-style: unset;
+     }
